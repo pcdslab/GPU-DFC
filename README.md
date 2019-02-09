@@ -20,4 +20,4 @@ S: step size
 
 M: Method (1,2,3). 1: No memory reduction, 2: Matrix decomposition, 3: sparsification
 
-The data should be stored in row major format (first N elements corresponds to time series of first element, second N elements corresponds to time series of first element and …)
+The data should be stored in row major format (first N elements corresponds to time series of first element, second N elements corresponds to time series of first element and …) in a text file called data.
