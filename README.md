@@ -1,15 +1,15 @@
 # GPU-DFC
 This repository contains Fast-GPU-PCC algorithm
 
-#Compilation
+# Compilation
 Use the following command for compiling the program
 
-#Running
+# Running
 Use the follwoing command to run the project.
 
 ./out N L W S M
 
-##Description of arguments
+## Description of arguments
 N: number of regions/voxel
 
 L: length of time series
